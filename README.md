@@ -1,2 +1,2 @@
 # my-first-repository
-Learning github devops
+Learning github with devops
